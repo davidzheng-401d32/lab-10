@@ -5,8 +5,8 @@
 ### Author: David Zheng 
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/davidzheng-401d32/lab-10/pull/1)
+* [travis](https://travis-ci.com/davidzheng-401d32/lab-10)
 * [back-end](will upload the link at the next ACP)
 
 #### Documentation
@@ -14,9 +14,7 @@ Will upload documentation when at the next ACP.
 
 
 ### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+
 
 #### Running the app
 Assignment is not finished
